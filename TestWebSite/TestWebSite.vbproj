@@ -135,6 +135,7 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <Content Include="Readme.txt" />
+    <Content Include="Readme2.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
