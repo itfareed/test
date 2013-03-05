@@ -1,0 +1,9 @@
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\bin\TestWebSite.dll
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\bin\TestWebSite.pdb
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\bin\TestWebSite.xml
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\obj\Release\ResolveAssemblyReference.cache
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\obj\Release\TestWebSite.Resources.resources
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\obj\Release\TestWebSite.vbproj.GenerateResource.Cache
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\obj\Release\TestWebSite.dll
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\obj\Release\TestWebSite.xml
+F:\my Stuff\MyLab\TestWebSite\TestWebSite\obj\Release\TestWebSite.pdb
