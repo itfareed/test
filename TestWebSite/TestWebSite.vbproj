@@ -134,6 +134,7 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <Content Include="Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
